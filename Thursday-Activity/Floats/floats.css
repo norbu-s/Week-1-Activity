@@ -52,7 +52,8 @@ section {
 
 #division {
   margin: 20px;
-  margin-left: 5px;
+  margin-left: 2px;
+  margin-right: 5px;
   padding: 20px; 
   background: #6ea3da;
 }
