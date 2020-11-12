@@ -7,12 +7,6 @@
   text-align: center;
 }
 
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
 body {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
